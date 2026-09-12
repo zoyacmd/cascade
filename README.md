@@ -1,2 +1,2 @@
-# ripple
-Open-source supply chain intelligence platform for dependency risk analysis and compromise impact simulation.
+# cascade
+Infrastructure resilience intelligence platform that models interconnected city systems, simulates cascading failures, measures downstream impact, and identifies critical intervention points
